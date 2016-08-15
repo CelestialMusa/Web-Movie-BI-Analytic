@@ -1,6 +1,6 @@
 ﻿namespace Web_Movie_BI_Analytics
 {
-    partial class Form1
+    partial class SplashScreenView
     {
         /// <summary>
         /// Required designer variable.
